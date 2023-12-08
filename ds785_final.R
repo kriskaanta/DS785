@@ -9,7 +9,7 @@ library(lmtest)
 # ==========================
 # import data set
 # ==========================
-reads <- read.csv("C:/Users/krisk/Documents/UWEC/Cap/data/alltime.csv", header = TRUE)
+reads <- read.csv("alltime.csv", header = TRUE)
 View(reads)
 
 #########################
